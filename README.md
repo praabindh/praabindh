@@ -1,7 +1,7 @@
 <h1 align="center">Howdy 👋, I'm Praabindh Pradeep</h1>
 <h3 align="center">A Passionate Programmer/Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praabindhp&label=Profile%20views&color=0e75b6&style=flat" alt="praabindhp" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=praabindhp&label=Profile%20views&color=0e75b6&style=flat" alt="praabindhp" /> </p>
 
 - 🔱 Winning Team Lead For Smart India Hackathon - 2022 | Developed [Project - VASTAVIK](https://github.com/praabindhp/Project-Vastavik-Light)
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m Currently Learning **Machine Learning Libraries, Computer Vision & Quantum Computing**
 
-- 👯 I’m Looking To Collaborate With [Creator, Developer/Programmer](https://praabindhp.github.io/Crescita-2021/)
+- 👯 I’m Looking To Collaborate With [Back-end Developer / Programmer](https://praabindh.github.io/SchemaWind/)
 
 - 🤝 I’m Looking For Help With [Deep Learning With Computer Vision](https://github.com/praabindhp/Project_Q)
 
@@ -17,9 +17,9 @@
 
 - 📝 I Regularly Write Articles on [https://praabindhp.medium.com/](https://praabindhp.medium.com/)
 
-- 💬 Ask Me About **Artificial Intelligence , Python3 Development, C Programming**
+- 💬 Ask Me About **Artificial Intelligence , Python3 Development, Full Stack Development, MERN Stack Development**
 
-- 📫 How To Reach Me **praabindhp@gmail.com**
+- 📫 How To Reach Me **praabindhp@gmail.com, praabindhp@outlook.com**
 
 - 📄 Know About My Experiences [https://praabindhp.github.io/Praabindh_Resume/](https://praabindhp.github.io/Praabindh_Resume/)
 
@@ -45,27 +45,27 @@
 
 My Top Projects : 
 
-  - [Enclone-Encoption](https://github.com/praabindhp/Enclone-Encoption)
-  - [Project Encoption](https://github.com/praabindhp/Encoption_2)
-  - [Zêta Alphôx Prô (Private)](https://github.com/praabindhp/Zeta_Alphox_Prime)
-  - [QRCode Encoding & Decoding](https://github.com/praabindhp/QRCode-Generator)
-  - [PDF Book Reader](https://github.com/praabindhp/Book_Reader)
+  - [Project - VASTAVIK](https://github.com/praabindhp/Project-Vastavik-Light)
+  - [Project - H A L E](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
+  - [SchemaWind By Praabindh's Org](https://praabindh.github.io/SchemaWind/)
+  - [The PRATOURS](https://github.com/praabindh/MERN-Pratours)
+  - [Project - WOR-CORP](https://drive.google.com/file/d/13uCxgr1HmEZ5f4CA0Ku_rqWbrKvdLoJV/view?usp=sharing)
 
 Web Development :
 
-  - [Crescita 2021 - School Event](https://github.com/praabindhp/Crescita-2021)
+  - [The SchemaWind](https://praabindh.github.io/SchemaWind/)
+  - [Geekitrix 2022 - College Event](https://github.com/praabindhp/Geekitrix-2022)
+  - [Praabindh's Resume Website](https://praabindhp.github.io/Praabindh_Resume/)
+  - [Crescita 2021 - School Event](https://praabindhp.github.io/Crescita-2021/)
   - [Tacty Randomizer](https://github.com/praabindhp/Tacty_Randomizer)
-  - [Praabindh's Resume Website](https://github.com/praabindhp/Praabindh_Resume)
-  - [Hugo Event Logs](https://github.com/praabindhp/Hugo-Event_Logs)
-  - [Base Resume Site](https://github.com/praabindhp/Personal_Site-CV)
 
 Programming Practices :
 
+  - [Advanced JavaScript - `JavaScript`](https://github.com/praabindh/JavaScript-Practices)
   - [Quantum Development - `Q#`](https://github.com/praabindhp/Project_QRandom)
   - [Anonymous Function - `Python3`](https://github.com/praabindhp/Lambda_Functions)
   - [Project Q - `C#`](https://github.com/praabindhp/Project_Q)
   - [Producer-Consumer Problem - `C`](https://github.com/praabindhp/Producer-Consumer_Problem)
-  - [Employee PayRoll - `Java`](https://github.com/praabindhp/Employee-Pay_Roll)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praabindhp&show_icons=true&locale=en&layout=compact" alt="praabindhp" /></p>
 
