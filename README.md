@@ -5,7 +5,7 @@
 
 - 🔱 Winning Team Lead For Smart India Hackathon - 2022 | Developed [Project - VASTAVIK](https://github.com/praabindhp/Project-Vastavik-Light)
 
-- 🔭 I’m Currently Working on [Project H.A.L.E & Zeta Alphox Pro/Prime/Dev [Z A P]](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
+- 🔭 I’m Currently Working on [Project H.A.L.E & Zeta Alphox Pro / Prime / Dev [Z A P]](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
 
 - 🌱 I’m Currently Learning **Machine Learning Libraries, Computer Vision & Quantum Computing**
 
@@ -17,7 +17,7 @@
 
 - 📝 I Regularly Write Articles on [https://praabindhp.medium.com/](https://praabindhp.medium.com/)
 
-- 💬 Ask Me About **Artificial Intelligence , Python3 Development, Full Stack Development, MERN Stack Development**
+- 💬 Ask Me About **Artificial Intelligence, Python3 Development, Full Stack Development, MERN Stack Development**
 
 - 📫 How To Reach Me **praabindhp@gmail.com, praabindhp@outlook.com**
 
@@ -45,15 +45,15 @@
 
 My Top Projects : 
 
-  - [Project - VASTAVIK](https://github.com/praabindhp/Project-Vastavik-Light)
-  - [Project - H A L E](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
-  - [SchemaWind By Praabindh's Org](https://praabindh.github.io/SchemaWind/)
+  - [The SCHEMAWIND](https://praabindh.github.io/SchemaWind/)
+  - [Project - HALE](https://docs.google.com/presentation/d/1P4nZsDmn5ydRPyovqotj6KRHT7aag6Hs/edit?usp=sharing&ouid=117702022704825799713&rtpof=true&sd=true)
   - [The PRATOURS](https://github.com/praabindh/MERN-Pratours)
-  - [Project - WOR-CORP](https://drive.google.com/file/d/13uCxgr1HmEZ5f4CA0Ku_rqWbrKvdLoJV/view?usp=sharing)
+  - [Project - VASTAVIK](https://github.com/praabindhp/Project-Vastavik-Light)
+  - [The WOR-CORP](https://drive.google.com/file/d/13uCxgr1HmEZ5f4CA0Ku_rqWbrKvdLoJV/view?usp=sharing)
 
 Web Development :
 
-  - [The SchemaWind](https://praabindh.github.io/SchemaWind/)
+  - [The SchemaWind By Praabindh's Org](https://praabindh.github.io/SchemaWind/)
   - [Geekitrix 2022 - College Event](https://github.com/praabindhp/Geekitrix-2022)
   - [Praabindh's Resume Website](https://praabindhp.github.io/Praabindh_Resume/)
   - [Crescita 2021 - School Event](https://praabindhp.github.io/Crescita-2021/)
